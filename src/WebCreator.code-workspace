@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "WebCreator",
+			"path": "../../WebCreator"
+		},
+		{
+			"name": "SiteCreator",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
